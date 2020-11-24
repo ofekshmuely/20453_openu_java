@@ -1,2 +1,2 @@
-# 20453_openu_java
+# 20453 openu java
 my solutions of course 20453
