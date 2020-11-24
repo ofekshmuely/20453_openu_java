@@ -1,3 +1,9 @@
 # 20453 Introduction to Computer Science Using Java I
 https://www-e.openu.ac.il/courses/20453.htm <br>
-my solutions of course 20453
+
+✅ Maman 11 => 14/11/20<br>
+⛏️ Maman 12 => 28/11/20<br>
+📋 Maman 13 => 12/12/20<br>
+📋 Maman 14 => 26/12/20<br>
+📋 Maman 15 => ???<br>
+📋 Maman 16 => ???<br>
