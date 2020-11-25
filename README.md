@@ -1,8 +1,12 @@
-![The Open university of Israel](https://www.tarbush.org/wp-content/uploads/2019/01/open-uni.jpg)
-# ![20453](https://i.imgur.com/eSXiCQy.png)<br>
+<p align="center" width="100%">
+    <img width="33%" src="https://www.tarbush.org/wp-content/uploads/2019/01/open-uni.jpg"> <br>
+        <img width="33%" src="https://i.imgur.com/eSXiCQy.png"> 
+
+</p>
+
+<br>
 
     System.out.println("Hello world!");
-🌐 [Course  website](https://www-e.openu.ac.il/courses/20453.htm)<br>
 
 
  - ✅ Maman 11 => 14/11/20
