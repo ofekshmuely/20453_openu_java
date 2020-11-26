@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://www.tarbush.org/wp-content/uploads/2019/01/open-uni.jpg"> <br>
+    <img width="45%" src="https://www.tarbush.org/wp-content/uploads/2019/01/open-uni.jpg"> <br>
         <img width="33%" src="https://i.imgur.com/eSXiCQy.png"> <br>
     <a href="https://www-e.openu.ac.il/courses/20453.htm" target="_blank">Course website (ENG)</a><br>
         <a href="https://www.openu.ac.il/courses/20453.htm" target="_blank">Course website (HEB)</a>
